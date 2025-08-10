@@ -1,7 +1,7 @@
 # California Housing Price Prediction - Linear, Ridge, and Lasso Regression
 
 ## 📌 Overview
-This project demonstrates the practical implementation of **Linear Regression**, **Ridge Regression (L2 Regularization)**, and **Lasso Regression (L1 Regularization)** using the **California Housing dataset**.  
+The practical implementation of **Linear Regression**, **Ridge Regression (L2 Regularization)**, and **Lasso Regression (L1 Regularization)** using the **California Housing dataset**.  
 The main goal is to compare these regression techniques and understand the impact of regularization on model performance.
 
 ---
