@@ -1,44 +1,46 @@
-# California Housing Price Prediction - Linear, Ridge, and Lasso Regression
+# 🏠 California Housing Price Prediction – Linear, Ridge & Lasso Regression
+ 
+---
 
-## 📌 Overview
-The practical implementation of **Linear Regression**, **Ridge Regression (L2 Regularization)**, and **Lasso Regression (L1 Regularization)** using the **California Housing dataset**.  
-The main goal is to compare these regression techniques and understand the impact of regularization on model performance.
+## 📌 *Overview*
+This project demonstrates the practical implementation of **Linear Regression**, **Ridge Regression (L2 Regularization)**, and **Lasso Regression (L1 Regularization)** using the **California Housing Dataset**.  
+The goal is to **compare regression techniques** and understand the impact of **regularization** on model performance.  
 
 ---
 
-## 🛠 Features
-- Data loading and preprocessing using **scikit-learn**
-- Standardization of features with **StandardScaler**
-- Model training and evaluation for:
-  - Linear Regression
-  - Ridge Regression (with GridSearchCV)
-  - Lasso Regression (with GridSearchCV)
-- Visualization of residuals using **Seaborn**
-- Model performance comparison using **R² score** and **MSE**
+## 🛠 *Features*
+- 📥 *Data loading and preprocessing* using **scikit-learn**  
+- ⚖️ *Feature standardization* with **StandardScaler**  
+- 🧠 *Model training & evaluation* for:  
+  - Linear Regression  
+  - Ridge Regression (with GridSearchCV)  
+  - Lasso Regression (with GridSearchCV)  
+- 📊 *Residuals visualization* using **Seaborn**  
+- 📈 *Model performance comparison* using **R² Score** and **Mean Squared Error (MSE)**  
 
 ---
 
-## 📂 Dataset
-Dataset: **California Housing Dataset** from `sklearn.datasets`
+## 📂 *Dataset*
+Dataset: **California Housing Dataset** from `sklearn.datasets`  
 
-**Features include:**
-- Median Income
-- House Age
-- Average Rooms
-- Average Bedrooms
-- Population
-- Average Occupancy
-- Latitude
-- Longitude
+**Features:**  
+- Median Income  
+- House Age  
+- Average Rooms  
+- Average Bedrooms  
+- Population  
+- Average Occupancy  
+- Latitude  
+- Longitude  
 
-**Target:** Median House Value
+**Target:** *Median House Value*  
 
 ---
 
-## 📊 Technologies Used
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- scikit-learn
+## 🛠️ *Technologies Used*
+- 🐍 Python  
+- 🔢 NumPy  
+- 🐼 Pandas  
+- 📊 Matplotlib  
+- 📈 Seaborn  
+- 🤖 scikit-learn
